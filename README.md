@@ -5,4 +5,4 @@
 |------------|----------|
 | nama sitsu | nama situs1|
 
-```npm rum dev```
+```js npm rum dev```
