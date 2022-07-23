@@ -5,7 +5,7 @@
 |------------|----------|
 | nama sitsu | nama situs1|
 
-```js
+```
 const effect = VANTA.WAVES({
   el: '#my-background',
   color: 0x000000
